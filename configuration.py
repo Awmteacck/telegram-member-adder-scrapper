@@ -1,5 +1,4 @@
-
-api_id = 11111111
-api_hash = '24031688c3bda62e711398b2a7c2b38avxv'
-phone = '+1111111111'
+api_id = 29691422
+api_hash = '7c2435a38e1c9f7417f62a5497db767a'
+phone = '+919362641982'
 client = TelegramClient(phone, api_id, api_hash)
